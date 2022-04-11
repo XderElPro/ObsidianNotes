@@ -1,0 +1,1 @@
+Ping es un comando de Unix que a simples rasgos envia paquetes a un objetivo que se puede especificar con un [[dominio]] o [[ip]] este comando nos puede otorgar información como el [[ttl]]

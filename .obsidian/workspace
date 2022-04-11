@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "74fd61822ab3e237",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca0e4d602b6548e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "telnet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3be8e6356223d453",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb0f6c77b3fb8fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024ddaa77d23822a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "98c9707518afea35",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61c7f00593d25888",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3e88d5258044f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66c113877c5819e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "telnet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aca0e4d602b6548e",
+  "lastOpenFiles": [
+    "telnet.md",
+    "Ping.md",
+    "ttl.md",
+    "paquetes.md",
+    "dominio.md"
+  ]
+}
