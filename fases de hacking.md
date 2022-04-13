@@ -1,0 +1,6 @@
+[[reconocimiento]]
+[[escaneo]]
+[[intrusion]]
+[[escalado de privilejios]]
+[[mantenimiento del aceso]]
+[[borrado de huellas]]

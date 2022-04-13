@@ -1,0 +1,1 @@
+Esta es la accion de descubrir directorios en una pagina web utilizando un metodo de [[bruteforcing]]

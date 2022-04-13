@@ -7,12 +7,8 @@
         "id": "aca0e4d602b6548e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "telnet.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,14 +65,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -89,10 +84,15 @@
   },
   "active": "aca0e4d602b6548e",
   "lastOpenFiles": [
-    "telnet.md",
-    "Ping.md",
-    "ttl.md",
+    "diccionario.md",
     "paquetes.md",
-    "dominio.md"
+    "fases de hacking.md",
+    "escaneo.md",
+    "dominio.md",
+    "dirbusting.md",
+    "dirbuster.md",
+    "bruteforcing.md",
+    "ping.md",
+    "ttl.md"
   ]
 }
