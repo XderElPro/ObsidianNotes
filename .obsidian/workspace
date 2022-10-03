@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dirbusting.md",
+            "file": "diccionario.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dirbusting.md",
+                "file": "diccionario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b379658a00ab0c74",
+  "active": "024ddaa77d23822a",
   "lastOpenFiles": [
     "dirbusting.md",
-    "diccionario.md",
     "bruteforcing.md",
-    "dirbuster.md",
-    "dominio.md",
     "escaneo.md",
-    "ttl.md",
     "paquetes.md",
+    "ttl.md",
+    "telnet.md",
+    "Ping.md",
     "fases de hacking.md",
-    "ping.md"
+    "dominio.md",
+    "diccionario.md"
   ]
 }
