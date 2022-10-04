@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sql.md",
+            "file": "sqlmap.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sql.md",
+                "file": "sqlmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b379658a00ab0c74",
   "lastOpenFiles": [
-    "diccionario.md",
-    "dirbusting.md",
-    "bruteforcing.md",
-    "escaneo.md",
-    "paquetes.md",
-    "ttl.md",
-    "telnet.md",
+    "SQL.md",
+    "Remote Shell.md",
+    "RCE.md",
     "Ping.md",
-    "fases de hacking.md",
-    "dominio.md"
+    "Paquetes.md",
+    "Reverse Shell.md",
+    "Fases de hacking.md",
+    "Generador.md",
+    "Dirbusting.md",
+    "Escaneo.md"
   ]
 }
