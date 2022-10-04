@@ -1,0 +1,1 @@
+sql significa Structured Query Language este te permite almacenar datos  y solicitarlos a traves de consultas

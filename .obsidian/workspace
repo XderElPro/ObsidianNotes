@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "diccionario.md",
+            "file": "sql.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diccionario.md",
+                "file": "sql.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "024ddaa77d23822a",
+  "active": "b379658a00ab0c74",
   "lastOpenFiles": [
+    "diccionario.md",
     "dirbusting.md",
     "bruteforcing.md",
     "escaneo.md",
@@ -97,7 +98,6 @@
     "telnet.md",
     "Ping.md",
     "fases de hacking.md",
-    "dominio.md",
-    "diccionario.md"
+    "dominio.md"
   ]
 }
