@@ -18,3 +18,6 @@ como algunos ejemplos
 ## Utilidades
 * [Generador de Reverse shell](https://www.revshells.com/)
 * [Extension con generador y estavilizador](https://addons.mozilla.org/es/firefox/addon/hacktools/)
+
+### Problemas
+si hay problememas con el reverse shell en bash prueba a meter el payload dentro de `bash -c "(payload)"`
