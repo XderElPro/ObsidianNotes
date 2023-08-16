@@ -1,5 +1,3 @@
-# vi
-
 Editor oldschool este tiene muchas funcionalidades integradas por atajos de teclado
 
 ## Vulerabilidades
